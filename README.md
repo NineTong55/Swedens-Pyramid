@@ -1,4 +1,5 @@
 Swedens-Pyramid
 ===============
 
-Swedens pyramid is a simple 2d exploration / adventure game
+#Goal
+Reach the top of the pyramid without getting hit by the ice cubes
