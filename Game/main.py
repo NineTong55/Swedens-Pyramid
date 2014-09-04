@@ -1,15 +1,12 @@
 import pygame
 import random
-import time
 
 if __name__ == "__main__":
 	pygame.init()
 	screen = pygame.display.set_mode((800, 600))
 	pygame.display.set_caption("Swedens Pyramid")
 	clock = pygame.time.Clock()
-	
-	font = pygame.font.Font(None, 36)
-	
+
 	background = pygame.image.load("background.png").convert()
 	background = pygame.transform.scale(background, (800, 600))
 	
